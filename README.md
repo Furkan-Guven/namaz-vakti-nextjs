@@ -1,4 +1,3 @@
-```markdown
 # Namaz Vakti Uygulaması 🙏
 
 ![Namaz Vakti Banner](https://via.placeholder.com/800x200.png?text=Namaz+Vakti+Uygulaması)  
@@ -102,5 +101,4 @@ Sorularınız mı var? Bana ulaşın!
 - **E-posta**: (E-posta adresinizi buraya ekleyebilirsiniz)
 
 ⭐ **Projeyi beğendiyseniz, yıldız vermeyi unutmayın!** ⭐
-```
 
